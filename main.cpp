@@ -173,59 +173,59 @@ struct CarWash //2)
 
 
 /*
-1)
+1) Movie Drive In 
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Open lot 
+    2) Concessions 
+    3) Number of tickets sold per car 
+    4) Number of screens 
+    5) Playground 
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Show six movies at a time 
+    2) Sell tickets 
+    3) Serve food 
  */
 
 /*
-2)
+2) Bike Shop
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Large bike collection
+    2) Stores tools used to fix bikes   
+    3) Stores spare parts
+    4) Bike detailing 
+    5) Stores amount of services made each day
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Fix bikes
+    2) Sell bikes
+    3) Customize bikes
  */
 
 /*
-3)
+3) Music Store
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Access data on models of instruments
+    2) Store different types of instruments 
+    3) Record the services given by each sales member 
+    4) Spare and new parts in inventory 
+    5) Quality equipment and gear
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Sell/Repair instruments
+    2) Music lessons
+    3) Provide expert advice
  */
 
 /*
-4)
+4) Library
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Store amount of library cards used each day
+    2) Access to every book in inventory 
+    3) Organize every book to genre then author
+    4) Label each book with reading difficulty level
+    5) Store order receipts of new book shipments
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Checkout/checkin books
+    2) Recommend books
+    3) Fine late returns 
  */
 
 /*
